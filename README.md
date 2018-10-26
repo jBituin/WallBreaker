@@ -1,2 +1,2 @@
 # WallBreaker
-2DGAME Project - Python
+A 2d Game Python-Based Project
